@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body{
+    height: 100vh;
+    color: black ;
+    font-family: 'Poppins', sans-serif;
+    background-image: url(/assets/img/martin-jernberg-oBX-b6ltYts-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+section{
+    margin-left: 60%;
+    margin-top: 20%;
+    
+}
